@@ -1,2 +1,2 @@
 # pdf-img-convert
-tools convert pdf to Image
+Simple tools convert pdf to Image
